@@ -42,7 +42,7 @@ As a member of an Agile development team at Fanduel, I deliver new features and 
 - postgres
 - express
 
-Check out [XDesign](https://www.createfuture.com) for more information.
+Check out [CreateFuture](https://www.createfuture.com) for more information.
 
 
 ## Software Developer | CORBIN BROOKS (Sept. 2020 – 2024 - Freelance)
