@@ -42,7 +42,7 @@ Docker, Kubernetes, GraphQL (Apollo), Expo, Terraform
 **Inti Technologies Inc (2018 - 2020)**
 <br><small>United state | Peru</small>
 - Working in team creating native mobile apps for Android and iOS
-- Built a "Learning platforms using React and Express
+- Built a "Learning platform" using React and Express
 - Creating Website with Wordpress
 
 **Certilearning (2017 - 2018)**
